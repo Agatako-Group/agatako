@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# [Start Bootstrap - Business Casual](https://startbootstrap.com/themes/business-casual/)
 
-You can use the [editor on GitHub](https://github.com/Agatako-Group/agatako/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+[Business Casual](https://startbootstrap.com/themes/business-casual/) is a multipurpose website theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Preview
 
-### Markdown
+[![Business Casual Preview](https://startbootstrap.com/assets/img/screenshots/themes/business-casual.png)](https://startbootstrap.github.io/startbootstrap-business-casual/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-business-casual/)**
 
-```markdown
-Syntax highlighted code block
+## Status
 
-# Header 1
-## Header 2
-### Header 3
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-business-casual/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-business-casual.svg)](https://www.npmjs.com/package/startbootstrap-business-casual)
+[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-business-casual.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-business-casual)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-business-casual/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-business-casual)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-business-casual/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-business-casual?type=dev)
 
-- Bulleted
-- List
+## Download and Installation
 
-1. Numbered
-2. List
+To begin using this template, choose one of the following options to get started:
 
-**Bold** and _Italic_ and `Code` text
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/business-casual/)
+* Install via npm: `npm i startbootstrap-business-casual`
+* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-business-casual.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-business-casual)
 
-[Link](url) and ![Image](src)
-```
+## Usage
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Basic Usage
 
-### Jekyll Themes
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Agatako-Group/agatako/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Advanced Usage
 
-### Support or Contact
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Gulp Tasks
+
+* `gulp` the default task that builds everything
+* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
+* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+* `gulp js` minifies the themes JS file
+* `gulp vendor` copies dependencies from node_modules to the vendor directory
+
+You must have npm installed globally in order to use this build environment.
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/themes/business-casual/).
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* <https://startbootstrap.com>
+* <https://twitter.com/SBootstrap>
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
+
+* <http://davidmiller.io>
+* <https://twitter.com/davidmillerskt>
+* <https://github.com/davidtmiller>
+
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
